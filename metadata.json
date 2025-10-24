@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Menús Semanales",
+  "description": "Una aplicación para generar menús semanales personalizados y crear una lista de compras consolidada de forma automática. Permite gestionar una base de datos de platos y recetas.",
+  "requestFramePermissions": []
+}
